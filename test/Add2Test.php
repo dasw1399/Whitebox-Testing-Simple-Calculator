@@ -1,6 +1,6 @@
 <?php
 
-class AddTest2 extends \PHPUnit\Framework\TestCase{
+class Add2Test extends \PHPUnit\Framework\TestCase{
     public function testAdd(){
         
         $calculator = new App\Calculator;
